@@ -1,17 +1,7 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/augustuz-zeno/augustuz-zeno/header.png" width="100%"/>
-
 <br>
 
-<img src="https://stefan-m-typing-svg.vercel.app/?lines=augustuz-zeno;code+%2F+experiments;minimal+systems&center=true&width=400&color=8AE0D1" />
-
-</div>
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=augustuz-zeno&theme=transparent&hide_border=true&title_color=8AE0D1&text_color=9FDAD0&icon_color=8AE0D1"/>
+<img height="165" src="https://camo.githubusercontent.com/e70a31277944273c196ae2e5a6b2a8c353dc64d249f64d6318dfa88f4ae0a9f0/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d617567757374757a2d7a656e6f267468656d653d626c6163636b616e64776869746526686964655f626f726465723d74727565267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d6161616161612669636f6e5f636f6c6f723d666666666666"/>
 
 </div>
